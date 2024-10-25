@@ -10,7 +10,7 @@
 
 1. Clone this repository to your local machine:
 
-    `git clone https://github.com/andy111223/05.3_BusinessCard`
+    `git clone https://github.com/andy111223/05.3_BusinessCard.git`
 
 2. Navigate to the project directory:
 
